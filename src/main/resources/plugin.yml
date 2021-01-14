@@ -1,0 +1,14 @@
+version: 0.1
+name: Marketplace
+main: com.jansedlon.marketplace.Marketplace
+author: Jan Sedlon
+description: ''
+api-version: 1.16
+depend: [Kotlin, Vault]
+commands:
+  marketplace:
+    aliases: []
+    usage: |
+      Invalid usage! Use
+      /marketplace search
+      /marketplace publish
